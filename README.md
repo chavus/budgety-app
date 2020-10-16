@@ -2,6 +2,6 @@
 
 A simple javascript app to manage personal budget
 
-Developed using ES5 javascript
+Developed using **ES5 javascript**
 
 Demo: https://personal-budgety.herokuapp.com/
